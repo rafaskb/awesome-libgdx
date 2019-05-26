@@ -26,15 +26,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 Resources that can be used in libGDX code to boost the framework's capabilities.
 
-- [gdx-boom](https://github.com/rafaskb/gdx-boom) - libGDX extension that brings special effects to audio.
-- [gdx-cclibs](https://github.com/CypherCove/gdx-cclibs) - libGDX extensions for sprite rendering with effects and asset/kryo utils
-- [gdx-facebook](https://github.com/TomGrill/gdx-facebook) - libGDX extension providing cross-platform support for Facebook Graph API.
-- [gdx-fireapp](https://github.com/mk-5/gdx-fireapp) - A libGDX cross-platform API for Firebase.
-- [gdx-firebase](https://github.com/TomGrill/gdx-firebase) - libGDX cross-platform(only Desktop/Android) API for Firebase
-- [gdx-gamesvcs](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices in your libGDX game, such as Google Play Games, Apple Game Center, and more.
-- [gdx-lml](https://github.com/czyzby/gdx-lml/tree/master/lml) - Templates for libGDX Scene2D with HTML-like syntax and FreeMarker-inspired macros.
-- [gdx-skins](https://github.com/czyzby/gdx-skins) - Free libGDX Scene2D GUI skins.
-- [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class for libGDX that records a GIF and saves it automatically.
 - [Artemis-odb](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
 - [Ashley](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
 - [Autumn](https://github.com/czyzby/gdx-lml/tree/master/autumn) - Dependency injection mechanism with component scan for LibGDX applications.
@@ -44,23 +35,32 @@ Resources that can be used in libGDX code to boost the framework's capabilities.
 - [Controllers](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-controllers) - Adds full support to gamepads and joysticks.
 - [Freetype](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files.
 - [gdx-ai](https://github.com/libgdx/gdx-ai) - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.
+- [gdx-boom](https://github.com/rafaskb/gdx-boom) - Brings special effects to audio.
+- [gdx-cclibs](https://github.com/CypherCove/gdx-cclibs) - Sprite rendering with effects and asset / Kryo utils.
 - [gdx-dialogs](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
+- [gdx-facebook](https://github.com/TomGrill/gdx-facebook) - Provides cross-platform support for Facebook Graph API.
+- [gdx-fireapp](https://github.com/mk-5/gdx-fireapp) - Cross-platform API for Firebase.
+- [gdx-firebase](https://github.com/TomGrill/gdx-firebase) - Cross-platform (only Desktop/Android) API for Firebase.
+- [gdx-gamesvcs](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
 - [gdx-jnigen](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
+- [gdx-lml](https://github.com/czyzby/gdx-lml/tree/master/lml) - LibGDX Markup Language allows to parse HTML-like templates with FreeMarker-inspired macros into Scene2D actors.
 - [gdx-pay](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing.
+- [gdx-skins](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
+- [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
 - [jbump](https://github.com/implicit-invocation/jbump) - Java port for bump.lua, a 2D AABB collision detection and response library.
 - [jwalkable](https://github.com/implicit-invocation/jwalkable) - Easy 2D polygonal pathfinding for Java.
-- [libGDX-inGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) - A libGDX library that allows a developer to add a console (similar to how it is featured in Source games) to their game.
 - [Kiwi](https://github.com/czyzby/gdx-lml/tree/master/kiwi) - Small set of utilities inspired by Guava.
 - [libgdx-contribs-postprocessing](https://github.com/manuelbua/libgdx-contribs/tree/master/postprocessing) - A lightweight, GLES2-only library to ease development and inclusion of post-processing effects.
+- [libGDX-inGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
 - [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 - [Particle Park](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
-- [Ray3K Skins](https://ray3k.wordpress.com/artwork/) - Free libGDX Scene2D.UI skins with example code, custom drawables, and experimental features.
+- [Ray3K Skins](https://ray3k.wordpress.com/artwork/) - Free Scene2D.UI skins with example code, custom drawables, and experimental features.
 - [stateless4j](https://github.com/oxo42/stateless4j) - Create state machines and lightweight state machine-based workflows directly in java code.
 - [steamworks4j](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
 - [TenPatch](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
 - [TypingLabel](https://github.com/rafaskb/typing-label) - A libGDX Label that appears as if it was being typed in real time.
-- [VisUI](https://github.com/kotcrab/vis-ui) - VisUI allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
-- [YarnGdx](https://github.com/kyperbelt/YarnGdx) - YarnGdx is a libGDX Library for interactive dialogue in games!
+- [VisUI](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
+- [YarnGdx](https://github.com/kyperbelt/YarnGdx) - Interactive dialogue in games.
 
 
 ## Tools
