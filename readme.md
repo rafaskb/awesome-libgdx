@@ -10,6 +10,7 @@
 
 - [Resources](#resources)
 - [Tools](#tools)
+- [Community](#community)
 - [Other Lists](#other-lists)
 
 
@@ -42,6 +43,16 @@ External tools to make development easier and faster.
 - [Gdx Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
 - [Packr](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X.
 - [Skin Composer](https://github.com/raeleus/skin-composer) - Create skins for libGDX scene2d.ui with a graphical interface.
+
+
+## Community
+
+Get in touch with other libGDX developers to collaborate and get help.
+
+- [Discord](https://discord.gg/4S8pQqc) - An active chat with various leaders from the community available every day. **Recommended**
+- [Forum](https://www.badlogicgames.com/forum/) - Official forum with occassional interaction with the libGDX team.
+- [IRC](irc://freenode/libgdx) - Inactive. Was once the best way to get in touch with the libGDX team. irc.freenode.org #libgdx
+- [Reddit](https://www.reddit.com/r/libgdx/) - Unofficial subreddit for libGDX. Not a lot of activity.
 
 
 ## Other Lists
