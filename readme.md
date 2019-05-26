@@ -1,9 +1,16 @@
-![alt text](logo.png "Logo Title Text 1")
+![Awesome LibGDX Logo](logo.png "Awesome LibGDX Logo")
+
+# Awesome LibGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+
+<a href="https://libgdx.badlogicgames.com/"><img src="https://libgdx.badlogicgames.com/img/logo.png" alt="libGDX Logo" align="left" style="margin-right: 25px" height=40></a>
+> LibGDX is a relatively low level, free, open source cross platform game development framework written in Java. Official Link: [LibGDX Homepage](https://libgdx.badlogicgames.com/)
+
+This list is a collection of resources, tools, tutorials, and projects to help developers make _awesome_ games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+
+Contributions *very welcome* but first see [Contributing](#contributing).
 
 
-# Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
-> A curated list of libGDX resources to help developers make _awesome_ games.
+---
 
 
 ## Contents
@@ -85,9 +92,13 @@ Other awesome lists that might be useful to libGDX developers.
 - [Magic Tools](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
 
 
-## Contribute
+---
+
+
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
 
 
 ## License
