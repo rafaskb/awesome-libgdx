@@ -11,6 +11,7 @@
 - [Resources](#resources)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
+- [Community](#community)
 - [Other Lists](#other-lists)
 
 
@@ -57,6 +58,16 @@ Tutorials for newbies and seasoned developers alike.
 - [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
 - [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) - Video tutorial on creating splash screens to display before your game window loads.
 - [Tann Space Hello libGDX](http://tann.space/HelloLibgdx/) - An excellent guide for beginners.
+
+
+## Community
+
+Get in touch with other libGDX developers to collaborate and get help.
+
+- [Discord](https://discord.gg/4S8pQqc) - An active chat with various leaders from the community available every day. **Recommended**
+- [Forum](https://www.badlogicgames.com/forum/) - Official forum with occassional interaction with the libGDX team.
+- [IRC](irc://freenode/libgdx) - Inactive. Was once the best way to get in touch with the libGDX team. irc.freenode.org #libgdx
+- [Reddit](https://www.reddit.com/r/libgdx/) - Unofficial subreddit for libGDX. Not a lot of activity.
 
 
 ## Other Lists
