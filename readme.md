@@ -29,7 +29,7 @@ Resources that can be used in libGDX code to boost the framework's capabilities.
 - [libGDX-inGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) - A libGDX library that allows a developer to add a console (similar to how it is featured in Source games) to their game.
 - [stateless4j](https://github.com/oxo42/stateless4j) - Create state machines and lightweight state machine-based workflows directly in java code.
 - [steamworks4j](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
-- [TenPatch](https://github.com/raeleus/TenPatch) - TODO
+- [TenPatch](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
 - [TypingLabel](https://github.com/rafaskb/typing-label) - A libGDX Label that appears as if it was being typed in real time.
 - [VisUI](https://github.com/kotcrab/vis-ui) - VisUI allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
 - [YarnGdx](https://github.com/kyperbelt/YarnGdx) - YarnGdx is a libGDX Library for interactive dialogue in games!
