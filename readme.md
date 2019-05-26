@@ -33,6 +33,7 @@ Resources that can be used in libGDX code to boost the framework's capabilities.
 - [gdx-firebase](https://github.com/TomGrill/gdx-firebase) - libGDX cross-platform(only Desktop/Android) API for Firebase
 - [gdx-gamesvcs](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices in your libGDX game, such as Google Play Games, Apple Game Center, and more.
 - [gdx-lml](https://github.com/czyzby/gdx-lml/tree/master/lml) - Templates for libGDX Scene2D with HTML-like syntax and FreeMarker-inspired macros.
+- [gdx-notifications](https://github.com/spookygames/gdx-notifications) - Cross-platform notifications for libgdx.
 - [gdx-skins](https://github.com/czyzby/gdx-skins) - Free libGDX Scene2D GUI skins.
 - [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class for libGDX that records a GIF and saves it automatically.
 - [jbump](https://github.com/implicit-invocation/jbump) - Java port for bump.lua, a 2D AABB collision detection and response library.
