@@ -35,9 +35,24 @@ Resources that can be used in libGDX code to boost the framework's capabilities.
 - [gdx-lml](https://github.com/czyzby/gdx-lml/tree/master/lml) - Templates for libGDX Scene2D with HTML-like syntax and FreeMarker-inspired macros.
 - [gdx-skins](https://github.com/czyzby/gdx-skins) - Free libGDX Scene2D GUI skins.
 - [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class for libGDX that records a GIF and saves it automatically.
+- [Artemis-odb](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
+- [Ashley](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
+- [Autumn](https://github.com/czyzby/gdx-lml/tree/master/autumn) - Dependency injection mechanism with component scan for LibGDX applications.
+- [Box2D](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-box2d) - One of the most popular physics libraries for 2D games.
+- [Box2DLights](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
+- [Bullet](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-bullet) - 3D Collision Detection and Rigid Body Dynamics Library.
+- [Controllers](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-controllers) - Adds full support to gamepads and joysticks.
+- [Freetype](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files.
+- [gdx-ai](https://github.com/libgdx/gdx-ai) - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.
+- [gdx-dialogs](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
+- [gdx-jnigen](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
+- [gdx-pay](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing.
 - [jbump](https://github.com/implicit-invocation/jbump) - Java port for bump.lua, a 2D AABB collision detection and response library.
 - [jwalkable](https://github.com/implicit-invocation/jwalkable) - Easy 2D polygonal pathfinding for Java.
 - [libGDX-inGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) - A libGDX library that allows a developer to add a console (similar to how it is featured in Source games) to their game.
+- [Kiwi](https://github.com/czyzby/gdx-lml/tree/master/kiwi) - Small set of utilities inspired by Guava.
+- [libgdx-contribs-postprocessing](https://github.com/manuelbua/libgdx-contribs/tree/master/postprocessing) - A lightweight, GLES2-only library to ease development and inclusion of post-processing effects.
+- [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 - [Particle Park](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
 - [Ray3K Skins](https://ray3k.wordpress.com/artwork/) - Free libGDX Scene2D.UI skins with example code, custom drawables, and experimental features.
 - [stateless4j](https://github.com/oxo42/stateless4j) - Create state machines and lightweight state machine-based workflows directly in java code.
@@ -53,8 +68,11 @@ Resources that can be used in libGDX code to boost the framework's capabilities.
 External tools to make development easier and faster.
 
 - [Gdx Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
+- [gdx-setup](https://github.com/czyzby/gdx-setup) - Alternative gdx-setup application - create your LibGDX projects with ease!
+- [Overlap2D](https://github.com/UnderwaterApps/overlap2d) - 2D level and UI editor with an engine agnostic philosophy for game development.
 - [Packr](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X.
 - [Skin Composer](https://github.com/raeleus/skin-composer) - Create skins for libGDX scene2d.ui with a graphical interface.
+- [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 
 ## Tutorials
