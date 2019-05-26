@@ -29,6 +29,7 @@ Resources that can be used in libGDX code to boost the framework's capabilities.
 - [Artemis-odb](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
 - [Ashley](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
 - [Autumn](https://github.com/czyzby/gdx-lml/tree/master/autumn) - Dependency injection mechanism with component scan for LibGDX applications.
+- [Blade Ink](https://github.com/bladecoder/blade-ink) - This is a Java port of inkle's ink, a scripting language for writing interactive narrative.
 - [Box2D](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-box2d) - One of the most popular physics libraries for 2D games.
 - [Box2DLights](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
 - [Bullet](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-bullet) - 3D Collision Detection and Rigid Body Dynamics Library.
