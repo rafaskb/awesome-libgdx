@@ -10,6 +10,7 @@
 
 - [Resources](#resources)
 - [Tools](#tools)
+- [Tutorials](#tutorials)
 - [Other Lists](#other-lists)
 
 
