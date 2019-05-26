@@ -27,6 +27,7 @@ Resources that can be used in libGDX code to boost the framework's capabilities.
 - [jbump](https://github.com/implicit-invocation/jbump) - Java port for bump.lua, a 2D AABB collision detection and response library.
 - [jwalkable](https://github.com/implicit-invocation/jwalkable) - Easy 2D polygonal pathfinding for Java.
 - [libGDX-inGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) - A libGDX library that allows a developer to add a console (similar to how it is featured in Source games) to their game.
+- [Ray3K Skins](https://ray3k.wordpress.com/artwork/) - Free libGDX Scene2D.UI skins with example code, custom drawables, and experimental features.
 - [stateless4j](https://github.com/oxo42/stateless4j) - Create state machines and lightweight state machine-based workflows directly in java code.
 - [steamworks4j](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
 - [TenPatch](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
