@@ -42,6 +42,7 @@ Resources that can be used in libGDX code to boost the framework's capabilities.
 - [gdx-facebook](https://github.com/TomGrill/gdx-facebook) - Provides cross-platform support for Facebook Graph API.
 - [gdx-fireapp](https://github.com/mk-5/gdx-fireapp) - Cross-platform API for Firebase.
 - [gdx-firebase](https://github.com/TomGrill/gdx-firebase) - Cross-platform (only Desktop/Android) API for Firebase.
+- [gdx-gameanalytics](https://github.com/MrStahlfelge/gdx-gameanalytics) - gameanalytics.com REST API client implementation for libGDX. Works on all backends.
 - [gdx-gamesvcs](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
 - [gdx-jnigen](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 - [gdx-lml](https://github.com/czyzby/gdx-lml/tree/master/lml) - LibGDX Markup Language allows to parse HTML-like templates with FreeMarker-inspired macros into Scene2D actors.
