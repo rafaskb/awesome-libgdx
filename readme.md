@@ -18,8 +18,10 @@
 Resources that can be used in libGDX code to boost the framework's capabilities.
 
 - [gdx-boom](https://github.com/rafaskb/gdx-boom) - libGDX extension that brings special effects to audio.
+- [gdx-cclibs](https://github.com/CypherCove/gdx-cclibs) - libGDX extensions for sprite rendering with effects and asset/kryo utils
 - [gdx-facebook](https://github.com/TomGrill/gdx-facebook) - libGDX extension providing cross-platform support for Facebook Graph API.
 - [gdx-fireapp](https://github.com/mk-5/gdx-fireapp) - A libGDX cross-platform API for Firebase.
+- [gdx-firebase](https://github.com/TomGrill/gdx-firebase) - libGDX cross-platform(only Desktop/Android) API for Firebase
 - [gdx-gamesvcs](https://github.com/MrStahlfelge/gdx-gamesvcs) - Easy integration of gameservices in your libGDX game, such as Google Play Games, Apple Game Center, and more.
 - [gdx-lml](https://github.com/czyzby/gdx-lml/tree/master/lml) - Templates for libGDX Scene2D with HTML-like syntax and FreeMarker-inspired macros.
 - [gdx-skins](https://github.com/czyzby/gdx-skins) - Free libGDX Scene2D GUI skins.
