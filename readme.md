@@ -57,7 +57,6 @@ Resources that can be used in libGDX code to boost the framework's capabilities.
 - [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 - [Particle Park](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
 - [Ray3K Skins](https://ray3k.wordpress.com/artwork/) - Free Scene2D.UI skins with example code, custom drawables, and experimental features.
-- [RegExodus](https://github.com/tommyettinger/RegExodus) - Regular expression lib, portable across Java variants, including GWT.
 - [stateless4j](https://github.com/oxo42/stateless4j) - Create state machines and lightweight state machine-based workflows directly in java code.
 - [steamworks4j](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
 - [TenPatch](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
