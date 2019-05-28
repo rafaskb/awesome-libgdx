@@ -69,6 +69,7 @@ Resources that can be used in libGDX code to boost the framework's capabilities.
 External tools to make development easier and faster.
 
 - [Gdx Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
+- [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that uses the current Gradle 5.x series.
 - [gdx-setup](https://github.com/czyzby/gdx-setup) - Alternative gdx-setup application - create your LibGDX projects with ease!
 - [Overlap2D](https://github.com/UnderwaterApps/overlap2d) - 2D level and UI editor with an engine agnostic philosophy for game development.
 - [Packr](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X.
