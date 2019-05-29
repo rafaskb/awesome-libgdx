@@ -33,7 +33,7 @@ Resources that can be used in libGDX code to boost the framework's capabilities.
 - [Box2D](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-box2d) - One of the most popular physics libraries for 2D games.
 - [Box2DLights](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
 - [Bullet](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-bullet) - 3D Collision Detection and Rigid Body Dynamics Library.
-- [Controllers](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-controllers) - Adds full support to gamepads and joysticks.
+- [Controllers](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-controllers) - Adds full support to gamepads and joysticks. See also [gdx-controllerutils](https://github.com/MrStahlfelge/gdx-controllerutils) to add Scene2D button input support, user configurable button mappings and hotplugging for LWJGL2.
 - [Freetype](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files.
 - [gdx-ai](https://github.com/libgdx/gdx-ai) - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.
 - [gdx-boom](https://github.com/rafaskb/gdx-boom) - Brings special effects to audio.
@@ -83,6 +83,7 @@ Tutorials for newbies and seasoned developers alike.
 - [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) - Video tutorial on using libGDX to make a game launcher.
 - [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
 - [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) - Details how to create a mask using Pixmaps.
+- [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - Deploying to iOS in 2019 using RoboVM
 - [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) - General tutorial on using JSON for storing data.
 - [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
 - [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) - Video tutorial on creating splash screens to display before your game window loads.
