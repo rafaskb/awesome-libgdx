@@ -85,26 +85,6 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 - [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
 
-#### To be removed
-- [Autumn](https://github.com/czyzby/gdx-lml/tree/master/autumn) - Dependency injection mechanism with component scan for LibGDX applications.
-    - **Removal reason: Abandoned.** 
-- [gdx-boom](https://github.com/rafaskb/gdx-boom) - Brings special effects to audio.
-    - **Removal reason: Too early in development yet.** 
-- [gdx-cclibs](https://github.com/CypherCove/gdx-cclibs) - Sprite rendering with effects and asset / Kryo utils.
-    - **Removal reason: These utilities have been divided in separate repositories.** 
-- [gdx-lml](https://github.com/czyzby/gdx-lml/tree/master/lml) - LibGDX Markup Language allows to parse HTML-like templates with FreeMarker-inspired macros into Scene2D actors.
-    - **Removal reason: Abandoned.** 
-- [jbump](https://github.com/implicit-invocation/jbump) - Java port for bump.lua, a 2D AABB collision detection and response library.
-    - **Removal reason: Not focused on libGDX and too specific.** 
-- [jwalkable](https://github.com/implicit-invocation/jwalkable) - Easy 2D polygonal pathfinding for Java.
-    - **Removal reason: Not focused on libGDX and too specific.** 
-- [Kiwi](https://github.com/czyzby/gdx-lml/tree/master/kiwi) - Small set of utilities inspired by Guava.
-    - **Removal reason: Abandoned.** 
-- [YarnGdx](https://github.com/kyperbelt/YarnGdx) - Interactive dialogue in games.
-    - **Removal reason: No official releases, very specific, and doesn't seem to be evolving.** 
-- [Blade Ink](https://github.com/bladecoder/blade-ink) - This is a Java port of inkle's ink, a scripting language for writing interactive narrative.
-    - **Removal reason: Very specific, and not focused on libGDX.** 
-
 
 ## Tutorials
 
