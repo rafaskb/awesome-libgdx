@@ -5,7 +5,7 @@
 <a href="https://libgdx.badlogicgames.com/"><img src="https://libgdx.badlogicgames.com/img/logo.png" alt="libGDX Logo" align="left" style="margin-right: 25px" height=40></a>
 > LibGDX is a relatively low level, free, open source cross platform game development framework written in Java. Official Link: [LibGDX Homepage](https://libgdx.badlogicgames.com/)
 
-This list is a collection of resources, tools, tutorials, and projects to help developers make _awesome_ games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+This list is a curated collection of awesome resources, tools, tutorials, and projects to help developers make _awesome_ games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
 Contributions *very welcome* but first see [Contributing](#contributing).
 
