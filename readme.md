@@ -46,8 +46,8 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [Ashley](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
 
 #### Physics
-- [Box2D](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-box2d) - One of the most popular physics libraries for 2D games.
-- [Bullet](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-bullet) - 3D Collision Detection and Rigid Body Dynamics Library.
+- [Box2D](https://github.com/libgdx/libgdx/wiki/Box2d) - One of the most popular physics libraries for 2D games.
+- [Bullet](https://github.com/libgdx/libgdx/wiki/Bullet-physics) - 3D Collision Detection and Rigid Body Dynamics Library.
 
 #### Services
 - [gdx-facebook](https://github.com/TomGrill/gdx-facebook) - Provides cross-platform support for Facebook Graph API.
