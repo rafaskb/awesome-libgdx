@@ -38,7 +38,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [gdx-ai](https://github.com/libgdx/gdx-ai) - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.
 
 #### Controllers
-- [Controllers](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-controllers) - Adds full support to gamepads and joysticks.
+- [Controllers](https://github.com/libgdx/libgdx/wiki/Controllers) - Adds full support to gamepads and joysticks.
 - [gdx-controllerutils](https://github.com/MrStahlfelge/gdx-controllerutils) - Adds Scene2D button input support, user configurable button mappings and hotplugging for LWJGL2.
 
 #### Entity Component System (ECS)
@@ -63,7 +63,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [Packr](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X.
 
 #### User Interface
-- [Freetype](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files.
+- [Freetype](https://github.com/libgdx/libgdx/wiki/Gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files.
 - [gdx-dialogs](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
 - [gdx-skins](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
 - [InGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
