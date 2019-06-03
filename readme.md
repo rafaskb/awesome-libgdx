@@ -26,6 +26,8 @@ Contributions *very welcome* but first see [Contributing](#contributing).
     - [Visual Effects](#visual-effects)
     - [Others](#others)
 - [Tutorials](#tutorials)
+    - [For Beginners](#for-beginners)
+    - [For Experts](#for-experts)
 - [Community](#community)
 - [Other Lists](#other-lists)
 
@@ -90,16 +92,20 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 
 _Tutorials for newbies and seasoned developers alike._
 
-- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
+#### For Beginners
+
+- [Tann's Hello libGDX](http://tann.space/HelloLibgdx/) - An excellent guide for beginners on how to create a game from scratch.
+- [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) - Video tutorial on creating splash screens to display before your game window loads.
 - [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) - Video tutorial on using libGDX to make a game launcher.
 - [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
-- [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) - Details how to create a mask using Pixmaps.
-- [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - Deploying to iOS in 2019 using RoboVM
 - [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) - General tutorial on using JSON for storing data.
 - [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
-- [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) - Video tutorial on creating splash screens to display before your game window loads.
-- [Tann Space Hello libGDX](http://tann.space/HelloLibgdx/) - An excellent guide for beginners.
 
+#### For Experts
+
+- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
+- [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) - Details how to create a mask using Pixmaps.
+- [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - Deploying to iOS in 2019 using RoboVM.
 
 ## Community
 
