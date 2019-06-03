@@ -28,6 +28,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Tutorials](#tutorials)
     - [For Beginners](#for-beginners)
     - [For Experts](#for-experts)
+- [Assets](#assets)
 - [Community](#community)
 - [Other Lists](#other-lists)
 
@@ -109,6 +110,18 @@ _Tutorials for newbies and seasoned developers alike._
 - [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) - Details how to create a mask using Pixmaps.
 - [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - Deploying to iOS in 2019 using RoboVM.
 - [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) - Pixel-perfect smooth scrolling.
+
+
+## Assets
+
+_Collection of free and high quality assets to get your game to the next level._
+
+- [Kenney Assets](https://kenney.nl/) - High quality assets for your game, from 2D and 3D art to sound effects.
+- [OpenGameArt.org](https://opengameart.org/) - Repository offering a variety of open content assets.
+- [Game-Icons.net](http://game-icons.net/) - Repository containing heaps of cool game related graphics.
+- [bfxr.net](https://www.bfxr.net/) - Quickly create unique sound effects by pressing a few buttons, excellent for prototyping.
+- [freesound.org](https://freesound.org/) - Huge collaborative database of audio snippets, samples, recordings, bleeps.
+
 
 ## Community
 
