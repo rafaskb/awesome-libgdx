@@ -142,7 +142,7 @@ _Other awesome lists that might be useful to libGDX developers._
 - [Java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff.
 - [Magic Tools](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
-
+- [**Game Accessibility Guidelines**](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible.
 
 ---
 
