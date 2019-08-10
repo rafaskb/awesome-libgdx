@@ -131,7 +131,6 @@ _Get in touch with other libGDX developers to collaborate and get help._
 
 - [Discord](https://discord.gg/4S8pQqc) - An active chat with various leaders from the community available every day. **Recommended**
 - [Forum](https://www.badlogicgames.com/forum/) - Official forum with occassional interaction with the libGDX team.
-- [IRC](irc://freenode/libgdx) - Inactive. Was once the best way to get in touch with the libGDX team. irc.freenode.org #libgdx
 - [Reddit](https://www.reddit.com/r/libgdx/) - Unofficial subreddit for libGDX. Not a lot of activity.
 
 
