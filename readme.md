@@ -7,7 +7,7 @@
 
 This list is a curated collection of awesome resources, tools, tutorials, and projects to help developers make _awesome_ games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
-Contributions *very welcome* but first see [Contributing](#contributing).
+Contributions _very welcome_ but first see [Contributing](#contributing).
 
 
 ---
