@@ -64,7 +64,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 
 #### Setup and Deployment
 - [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that uses the current Gradle 5.x series.
-- [Packr](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X.
+- [Packr](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
 
 #### User Interface
 - [Freetype](https://github.com/libgdx/libgdx/wiki/Gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files.
