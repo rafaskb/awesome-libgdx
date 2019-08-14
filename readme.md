@@ -98,8 +98,8 @@ _Tutorials for newbies and seasoned developers alike._
 
 #### For Beginners
 
-- [Official LibGDX Wiki](https://github.com/libgdx/libgdx/wiki) - Official libGDX wiki that contains a huge amount of information.
-- [Tann's Hello libGDX](http://tann.space/HelloLibgdx/) - An excellent guide for beginners on how to create a game from scratch.
+- [Official LibGDX Wiki](https://github.com/libgdx/libgdx/wiki) - Official LibGDX wiki that contains a huge amount of information.
+- [Tann's Hello LibGDX](http://tann.space/HelloLibgdx/) - An excellent guide for beginners on how to create a game from scratch.
 - [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) - Video tutorial on creating splash screens to display before your game window loads.
 - [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) - Video tutorial on using LibGDX to make a game launcher.
 - [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying LibGDX games with JPackage via Gradle commands.
