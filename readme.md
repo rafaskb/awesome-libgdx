@@ -2,12 +2,11 @@
 
 # Awesome LibGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
-<a href="https://libgdx.badlogicgames.com/"><img src="https://libgdx.badlogicgames.com/img/logo.png" alt="LibGDX Logo" align="right" style="margin-right: 25px" height=40></a>
-[LibGDX](https://libgdx.badlogicgames.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
-
-This list is a curated collection of awesome resources, tools, tutorials, and projects using the [LibGDX](https://libgdx.badlogicgames.com/) game framework to help developers make _awesome_ games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
-
-Contributions _very welcome_ but first see [Contributing](#contributing).
+> [LibGDX](https://libgdx.badlogicgames.com/) is a relatively low level, free, open source cross platform game development framework written in Java. <a href="https://libgdx.badlogicgames.com/"><img src="https://libgdx.badlogicgames.com/img/logo.png" alt="LibGDX Logo" align="right" style="margin-right: 25px" height=40></a>
+> 
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [LibGDX](https://libgdx.badlogicgames.com/) game framework to help developers make _awesome_ games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+> 
+> Contributions _very welcome_ but first see [Contributing](#contributing).
 
 
 ---
