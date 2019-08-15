@@ -131,7 +131,7 @@ _Collection of free and high quality assets to get your game to the next level._
 _Get in touch with other LibGDX developers to collaborate and get help._
 
 - [Discord](https://discord.gg/4S8pQqc) - An active chat with various leaders from the community available every day. **Recommended**
-- [Forum](https://www.badlogicgames.com/forum/) - Official forum with occassional interaction with the LibGDX team.
+- [Forum](https://www.badlogicgames.com/forum/) - Official forum with occasional interaction with the LibGDX team.
 - [Reddit](https://www.reddit.com/r/libgdx/) - Unofficial subreddit for LibGDX. Not a lot of activity.
 
 
