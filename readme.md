@@ -41,23 +41,23 @@
 
 _Resources that can be used in LibGDX code to boost the framework's capabilities._
 
-#### Artificial Intelligence
+### Artificial Intelligence
 - [gdx-ai](https://github.com/libgdx/gdx-ai) - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.
 
-#### Controllers
+### Controllers
 - [Controllers](https://github.com/libgdx/libgdx/wiki/Controllers) - Adds support to gamepads and joysticks.
 - [gdx-controllerutils](https://github.com/MrStahlfelge/gdx-controllerutils) - Adds Scene2D button input support, user configurable button mappings and hotplugging for LWJGL2.
 - [sdl2gdx](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
 
-#### Entity Component System (ECS)
+### Entity Component System (ECS)
 - [Artemis-odb](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
 - [Ashley](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
 
-#### Physics
+### Physics
 - [Box2D](https://github.com/libgdx/libgdx/wiki/Box2d) - One of the most popular physics libraries for 2D games.
 - [Bullet](https://github.com/libgdx/libgdx/wiki/Bullet-physics) - 3D Collision Detection and Rigid Body Dynamics Library.
 
-#### Services
+### Services
 - [gdx-facebook](https://github.com/TomGrill/gdx-facebook) - Provides cross-platform support for Facebook Graph API.
 - [gdx-fireapp](https://github.com/mk-5/gdx-fireapp) - Cross-platform API for Firebase.
 - [gdx-firebase](https://github.com/TomGrill/gdx-firebase) - Cross-platform (only Desktop/Android) API for Firebase.
@@ -66,11 +66,11 @@ _Resources that can be used in LibGDX code to boost the framework's capabilities
 - [gdx-pay](https://github.com/libgdx/gdx-pay) - Provides a cross-platform API for InApp purchasing.
 - [steamworks4j](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
 
-#### Setup and Deployment
+### Setup and Deployment
 - [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for LibGDX that uses the current Gradle 5.x series.
 - [Packr](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
 
-#### User Interface
+### User Interface
 - [Freetype](https://github.com/libgdx/libgdx/wiki/Gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files.
 - [gdx-dialogs](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
 - [gdx-skins](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
@@ -81,14 +81,14 @@ _Resources that can be used in LibGDX code to boost the framework's capabilities
 - [TypingLabel](https://github.com/rafaskb/typing-label) - A LibGDX Label that appears as if it was being typed in real time.
 - [VisUI](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in LibGDX using scene2d.ui. Note this is not a UI editor.
 
-#### Visual Effects
+### Visual Effects
 - [Box2DLights](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
 - [libgdx-contribs-postprocessing](https://github.com/manuelbua/libgdx-contribs/tree/master/postprocessing) - A lightweight, GLES2-only library to ease development and inclusion of post-processing effects.
 - [Particle Park](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
 - [Shape Drawer](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 - [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
-#### Others
+### Others
 - [gdx-jnigen](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 - [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
 - [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
