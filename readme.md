@@ -27,8 +27,8 @@
   - [Visual Effects](#visual-effects)
   - [Others](#others)
 - [Tutorials](#tutorials)
-  - [For Beginners](#for-beginners)
-  - [For Experts](#for-experts)
+  - [Getting Started](#getting-started)
+  - [Advanced](#advanced)
 - [Assets](#assets)
 - [Community](#community)
 - [Other Lists](#other-lists)
@@ -96,7 +96,7 @@ _Resources that can be used in LibGDX code to boost the framework's capabilities
 
 _Tutorials for newbies and seasoned developers alike._
 
-#### For Beginners
+### Getting Started
 
 - [Official LibGDX Wiki](https://github.com/libgdx/libgdx/wiki) - Official LibGDX wiki that contains a huge amount of information.
 - [Tann's Hello LibGDX](http://tann.space/HelloLibgdx/) - An excellent guide for beginners on how to create a game from scratch.
@@ -107,7 +107,7 @@ _Tutorials for newbies and seasoned developers alike._
 - [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
 - [LibGDX External Tutorials](https://github.com/libgdx/libgdx/wiki/External-tutorials) - Big list of official unofficial tutorials.
 
-#### For Experts
+### Advanced
 
 - [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for LibGDX projects to increase productivity.
 - [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) - Details how to create a mask using Pixmaps.
