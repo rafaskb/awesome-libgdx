@@ -3,11 +3,11 @@
 # Awesome LibGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/rafaskb/awesome-libgdx#contributing)
 
 > <a href="https://libgdx.badlogicgames.com/"><img src="https://libgdx.badlogicgames.com/img/logo.png" alt="LibGDX Logo" align="right" style="margin-right: 25px" height=40></a>
->  
+>
 > [LibGDX](https://libgdx.badlogicgames.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
-> 
+>
 > This list is a curated collection of awesome resources, tools, tutorials, and projects using the [LibGDX](https://libgdx.badlogicgames.com/) game framework to help developers make _awesome_ games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
-> 
+>
 > Contributions _very welcome_ but first see [Contributing](#contributing).
 
 
@@ -32,6 +32,9 @@
 - [Assets](#assets)
 - [Community](#community)
 - [Other Lists](#other-lists)
+
+
+---
 
 
 ## Resources
@@ -145,6 +148,7 @@ _Other awesome lists that might be useful to LibGDX developers._
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff.
 - [Magic Tools](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
 - [**Game Accessibility Guidelines**](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible.
+
 
 ---
 
