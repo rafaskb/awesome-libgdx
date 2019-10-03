@@ -93,6 +93,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
 - [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 - [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
+- [Blade Ink Template](https://github.com/bladecoder/blade-ink-template) - A template to create interactive fiction games using the Ink language
 
 
 ## Tutorials
