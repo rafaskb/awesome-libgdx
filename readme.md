@@ -89,6 +89,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ### Others
+- [gdx-dbgagent](https://github.com/PokeMMO/gdx-dbgagent) - Java Agent for debugging common issues, like objects not being disposed and constants such as Color.WHITE being modified. 
 - [gdx-jnigen](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 - [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
 - [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
