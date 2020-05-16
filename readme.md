@@ -85,6 +85,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 
 ### Visual Effects
 - [Box2DLights](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
+- [box2d-light-particle](https://github.com/alyrow/box2d-light-particle) - A particle system with lights and (if you want) physics that use Box2DLights and box2D.
 - [gdx-vfx](https://github.com/crashinvaders/gdx-vfx) - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
 - [Particle Park](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
 - [Shape Drawer](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
