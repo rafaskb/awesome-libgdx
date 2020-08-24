@@ -98,6 +98,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
 - [KTX](https://github.com/libktx/ktx) - Kotlin extensions and utilities for libGDX.
 - [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
+- [Simple Graphs](https://github.com/earlygrey/simple-graphs) Data structures and algorithms (including fast pathfinding) for graphs.
 - [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
 
 
