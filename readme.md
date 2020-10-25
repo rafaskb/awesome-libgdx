@@ -41,8 +41,9 @@
 
 _Resources that can be used in libGDX code to boost the framework's capabilities._
 
-### Artificial Intelligence
+### Algorithms and AI
 - [gdx-ai](https://github.com/libgdx/gdx-ai) - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.
+- [Simple Graphs](https://github.com/earlygrey/simple-graphs) - A java library for graph data structures and algorithms (including fast pathfinding).
 
 ### Controllers
 - [Controllers](https://github.com/libgdx/libgdx/wiki/Controllers) - Adds support to gamepads and joysticks.
