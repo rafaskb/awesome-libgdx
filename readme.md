@@ -17,7 +17,7 @@
 ## Contents
 
 - [Resources](#resources)
-  - [Artificial Intelligence](#artificial-intelligence)
+  - [Artificial Intelligence](#algorithms-and-ai)
   - [Controllers](#controllers)
   - [Entity Component System (ECS)](#entity-component-system-ecs)
   - [Physics](#physics)
