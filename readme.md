@@ -136,6 +136,7 @@ _Collection of free and high quality assets to get your game to the next level._
 - [Game-Icons.net](http://game-icons.net/) - Repository containing heaps of cool game related graphics.
 - [bfxr.net](https://www.bfxr.net/) - Quickly create unique sound effects by pressing a few buttons, excellent for prototyping.
 - [freesound.org](https://freesound.org/) - Huge collaborative database of audio snippets, samples, recordings, bleeps.
+- [Spriters Resource](https://www.spriters-resource.com) - Website that is dedicated to the collection, archival, and appreciation of materials from video games.
 
 
 ## Community
