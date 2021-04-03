@@ -76,7 +76,6 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [Freetype](https://github.com/libgdx/libgdx/wiki/Gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files.
 - [gdx-dialogs](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
 - [gdx-skins](https://github.com/czyzby/gdx-skins) - Free Scene2D GUI skins.
-- [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
 - [InGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
 - [msdf-gdx](https://github.com/maltaisn/msdf-gdx) - Provides lightweight utilities to draw high-quality MSDF (multi-channel signed distance field) text on libGDX.
 - [PieMenu](https://github.com/payne911/PieMenu) - Radial menus for Scene2D that are highly flexible and easy to customize.
@@ -86,13 +85,16 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [TypingLabel](https://github.com/rafaskb/typing-label) - A libGDX Label that appears as if it was being typed in real time.
 - [VisUI](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
 
+### Editors
+- [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+- [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
+
 ### Visual Effects
 - [Box2DLights](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
 - [gdx-vfx](https://github.com/crashinvaders/gdx-vfx) - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
 - [libgdx-screenmanager](https://github.com/crykn/libgdx-screenmanager) - A screen manager for libGDX supporting various transition effects
 - [Particle Park](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
 - [Shape Drawer](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
-- [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 - [gdx-gltf](https://github.com/mgsx-dev/gdx-gltf) - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
 - [libgdx-graph](https://github.com/marcinsc/libgdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games. [Guide here](https://www.youtube.com/channel/UCzbGLy819RyOkKb_kmV2kCA) 
 
