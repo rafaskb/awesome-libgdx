@@ -19,6 +19,7 @@
 - [Resources](#resources)
   - [Artificial Intelligence](#algorithms-and-ai)
   - [Controllers](#controllers)
+  - [Editors](#editors)
   - [Entity Component System (ECS)](#entity-component-system-ecs)
   - [Physics](#physics)
   - [Services](#services)
@@ -49,6 +50,10 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [Controllers](https://github.com/libgdx/libgdx/wiki/Controllers) - Adds support to gamepads and joysticks.
 - [gdx-controllerutils](https://github.com/MrStahlfelge/gdx-controllerutils) - Adds Scene2D button input support, user configurable button mappings and hotplugging for LWJGL2.
 - [sdl2gdx](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
+
+### Editors
+- [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+- [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ### Entity Component System (ECS)
 - [Artemis-odb](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
@@ -84,10 +89,6 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [TenPatch](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
 - [TypingLabel](https://github.com/rafaskb/typing-label) - A libGDX Label that appears as if it was being typed in real time.
 - [VisUI](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
-
-### Editors
-- [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
-- [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ### Visual Effects
 - [Box2DLights](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
