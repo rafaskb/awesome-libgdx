@@ -98,6 +98,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [Shape Drawer](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 - [gdx-gltf](https://github.com/mgsx-dev/gdx-gltf) - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
 - [libgdx-graph](https://github.com/marcinsc/libgdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games. [Guide here](https://www.youtube.com/channel/UCzbGLy819RyOkKb_kmV2kCA) 
+- [gdx-basisu](https://github.com/crashinvaders/gdx-basis-universal) - [Basis Universal](https://github.com/BinomialLLC/basis_universal) supercompressed GPU textures support.
 
 ### Others
 - [gdx-dbgagent](https://github.com/PokeMMO/gdx-dbgagent) - Java Agent for debugging common issues, like objects not being disposed and constants such as Color.WHITE being modified. 
