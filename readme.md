@@ -102,8 +102,8 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 ### Others
 - [gdx-bmfont](https://github.com/anyicomplex/gdx-bmfont) - Command-line BitmapFont packer tool based on libGDX's FreeType wrapper.
 - [gdx-dbgagent](https://github.com/PokeMMO/gdx-dbgagent) - Java Agent for debugging common issues, like objects not being disposed and constants such as Color.WHITE being modified. 
-- [gdx-graalhelper](https://github.com/anyicomplex/gdx-graalhelper) - Experimental helper for libGDX to build GraalVM native-image.
 - [gdx-jnigen](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
+- [gdx-svmhelper](https://github.com/anyicomplex/gdx-svmhelper) - Experimental helper for libGDX to build GraalVM Native Image.
 - [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
 - [KTX](https://github.com/libktx/ktx) - Kotlin extensions and utilities for libGDX.
 - [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
