@@ -1,6 +1,6 @@
 [![Awesome libGDX Logo](logo.png 'Awesome libGDX Logo')](https://libgdx.com/)
 
-# Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/rafaskb/awesome-libgdx#contributing) ![Version](https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx?color=e74a45&label=libGDX&style=flat-square)
+# Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![Latest libGDX Version](https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx?color=e74a45&label=Latest%20libGDX%20Version&style=flat-square)
 
 > <a href="https://libgdx.com/"><img src="https://libgdx.com/assets/images/logo.png" alt="libGDX Logo" align="right" style="margin-right: 25px" height=40></a>
 >
