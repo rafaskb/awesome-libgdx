@@ -25,6 +25,7 @@
   - [Setup and Deployment](#setup-and-deployment)
   - [User Interface](#user-interface)
   - [Visual Effects](#visual-effects)
+  - [Audio](#audio)
   - [Others](#others)
 - [Tutorials](#tutorials)
   - [Getting Started](#getting-started)
@@ -97,6 +98,12 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [Shape Drawer](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 - [gdx-gltf](https://github.com/mgsx-dev/gdx-gltf) - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
 - [gdx-graph](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
+
+### Audio
+- [TuningFork](https://github.com/Hangman/TuningFork) - Advanced 3D audio features for libGDX desktop users.
+- [gdx-miniaudio](https://github.com/rednblackgames/gdx-miniaudio) - Advanced Cross Platform Audio Engine for libGDX based on MiniAudio.
+- [gdx-sfx](https://github.com/spookygames/gdx-sfx) - Some goodies for better sound effects in libGDX.
+- [Parrot](https://github.com/rafaskb/Parrot) - Parrot is a library that augments the audio support in libGDX.
 
 ### Others
 - [gdx-dbgagent](https://github.com/PokeMMO/gdx-dbgagent) - Java Agent for debugging common issues, like objects not being disposed and constants such as Color.WHITE being modified. 
