@@ -103,7 +103,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [TuningFork](https://github.com/Hangman/TuningFork) - Advanced 3D audio features for libGDX desktop users.
 - [gdx-miniaudio](https://github.com/rednblackgames/gdx-miniaudio) - Advanced Cross Platform Audio Engine for libGDX based on MiniAudio.
 - [gdx-sfx](https://github.com/spookygames/gdx-sfx) - Some goodies for better sound effects in libGDX.
-- [Parrot](https://github.com/rafaskb/Parrot) - Parrot is a library that augments the audio support in libGDX.
+- [gdx-pd](https://github.com/mgsx-dev/gdx-pd) - Pure Data extension for libGDX.
 
 ### Others
 - [gdx-dbgagent](https://github.com/PokeMMO/gdx-dbgagent) - Java Agent for debugging common issues, like objects not being disposed and constants such as Color.WHITE being modified. 
