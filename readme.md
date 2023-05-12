@@ -61,6 +61,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 
 ### Physics
 - [Box2D](https://libgdx.com/wiki/extensions/physics/box2d) - One of the most popular physics libraries for 2D games.
+- [Box2D 2.4.1](https://github.com/ice1000/gdx-box2d) - An up-to-date binding of Box2D with rope support, only works on desktop.
 - [Bullet](https://libgdx.com/wiki/extensions/physics/bullet/bullet-physics) - 3D Collision Detection and Rigid Body Dynamics Library.
 - [jbump](https://github.com/tommyettinger/jbump) - Easy to implement AABB collision detection useful for platformers and other simple 2D games.
 
