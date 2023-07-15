@@ -53,6 +53,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 
 ### Editors
 - [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+- [Mundus](https://github.com/JamesTKhan/Mundus) - World/level editor for 3D worlds with a runtime for libGDX.
 - [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ### Entity Component System (ECS)
