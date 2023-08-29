@@ -52,6 +52,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [sdl2gdx](https://github.com/electronstudio/sdl2gdx) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
 
 ### Editors
+- [Box2D Editor](https://github.com/ice1000/box2d-editor-2023) - An up-to-date version of WYSIWYG editor for Box2D polygon hitboxes.
 - [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
 - [Mundus](https://github.com/JamesTKhan/Mundus) - World/level editor for 3D worlds with a runtime for libGDX.
 - [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
