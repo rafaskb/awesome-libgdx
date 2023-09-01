@@ -78,6 +78,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
 - [libgdx-library-template](https://github.com/tommyettinger/libgdx-library-template) - A skeleton project for making new libraries, since they need different config.
 - [Packr](https://github.com/libGDX/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
+- [Conveyor](https://www.hydraulic.dev/) - Easy to use packaging/deployment with support for delta updates, cross-building, jlink, native package formats and more.
 
 ### User Interface
 - [Freetype](https://libgdx.com/wiki/extensions/gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files.
