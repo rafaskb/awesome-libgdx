@@ -12,9 +12,6 @@
 
 ---
 
-## Video Tutorials
-[![Libgdx Tutorial Videos](tutorial.png 'Libgdx Tutorial Videos')](https://www.youtube.com/watch?v=p2lUdy68s_M&list=PLLwCf-qdpyEnB_FO_1HkUFh7smwGNjAaC)
-
 ## Contents
 
 - [Resources](#resources)
@@ -126,9 +123,11 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 
 _Tutorials for newbies and seasoned developers alike._
 
-### Getting Started
 
+
+### Getting Started
 - [Official libGDX Wiki](https://libgdx.com/wiki/) - Official libGDX wiki that contains a huge amount of information.
+- [LibGDX Tutorials](https://www.youtube.com/watch?v=p2lUdy68s_M&list=PLLwCf-qdpyEnB_FO_1HkUFh7smwGNjAaC) - YouTube tutorial serise covering Libgdx.
 - [Tann's Hello libGDX](https://colourtann.github.io/HelloLibgdx/) - An excellent guide for beginners on how to create a game from scratch.
 - [Brandon Grasley's Space Shooter Game](https://www.youtube.com/playlist?list=PLfd-5Q3Fwq0WKrkEKw12nqpfER3MG5_Wi) - Video tutorial series on making a complete Android game from scratch.
 - [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) - Video tutorial on using libGDX to make a game launcher.
@@ -139,7 +138,7 @@ _Tutorials for newbies and seasoned developers alike._
 - [Scene2D.UI From the Ground Up](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
 
 ### Advanced
-
+- [LibGDX Tutorials](https://www.youtube.com/watch?v=p2lUdy68s_M&list=PLLwCf-qdpyEnB_FO_1HkUFh7smwGNjAaC) - YouTube tutorial serise covering Libgdx.
 - [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
 - [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) - Details how to create a mask using Pixmaps.
 - [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - Deploying to iOS in 2019 using RoboVM.
