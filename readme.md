@@ -148,6 +148,7 @@ _Tutorials for newbies and seasoned developers alike._
 ### General Learning Material
 - [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
+- [Procedural Content Generation Wiki](http://pcg.wikidot.com/) - A central knowledge-base for everything related to Procedural Content Generation.
 
 ## Assets
 
