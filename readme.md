@@ -145,7 +145,7 @@ _Tutorials for newbies and seasoned developers alike._
 - [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) - Pixel-perfect smooth scrolling.
 - [Introduction to 3D Series](https://www.youtube.com/playlist?list=PLjUR2MkQ0cuHZ70Ps8F9WMyoyKHKAbYvQ) - A tutorial series on libGDX 3D using gdx-gltf.
 
-### General (libGDX compatable)
+### General Learning Material (libGDX compatable)
 - [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
 
