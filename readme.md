@@ -118,7 +118,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [KTX](https://github.com/libktx/ktx) - Kotlin extensions and utilities for libGDX.
 - [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 - [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
-- [LibGDXPlugin](https://github.com/BlueBoxWare/LibGDXPlugin) - An IntelliJ plugin for use with LibGDX with color previews and additional inspections.
+- [libGDX Plugin](https://github.com/BlueBoxWare/LibGDXPlugin) - A plugin for IntelliJ IDEA and Android Studio that adds a number of libGDX features and tools, such as color previews and additional inspections for common mistakes.
 
 ## Tutorials
 
@@ -145,10 +145,9 @@ _Tutorials for newbies and seasoned developers alike._
 - [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) - Pixel-perfect smooth scrolling.
 - [Introduction to 3D Series](https://www.youtube.com/playlist?list=PLjUR2MkQ0cuHZ70Ps8F9WMyoyKHKAbYvQ) - A tutorial series on libGDX 3D using gdx-gltf.
 
-### General Learning Material (libGDX compatable)
+### General Learning Material
 - [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
-
 
 ## Assets
 
