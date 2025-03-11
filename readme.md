@@ -103,6 +103,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [Shape Drawer](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 - [gdx-gltf](https://github.com/mgsx-dev/gdx-gltf) - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
 - [gdx-graph](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
+- [gdx-ar](https://github.com/rednblackgames/gdx-ar) - Augmented Reality extension for libGDX.
 
 ### Audio
 - [TuningFork](https://github.com/Hangman/TuningFork) - Advanced 3D audio features for libGDX desktop users.
