@@ -97,6 +97,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [Box2DLights](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
 - [colorful-gdx](https://github.com/tommyettinger/colorful-gdx) - Expands how tinting can affect colors; also has many pre-written shaders.
 - [HackLights](https://github.com/aliasifk/HackLights) - Lightweight framebuffer based lighting engine for libGDX.
+- [Gdx-Normal-Light](https://github.com/BennyOe/Gdx-Normal-Light) - A powerful 2D lighting engine, combining dynamic per-pixel lighting, normal mapping, and Box2D shadows.
 - [gdx-vfx](https://github.com/crashinvaders/gdx-vfx) - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
 - [libgdx-screenmanager](https://github.com/crykn/libgdx-screenmanager) - A screen manager for libGDX supporting various transition effects
 - [Particle Park](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
