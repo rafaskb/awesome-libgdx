@@ -56,6 +56,9 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [Mundus](https://github.com/JamesTKhan/Mundus) - World/level editor for 3D worlds with a runtime for libGDX.
 - [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
+### Tools
+- [TexturePacker](https://www.codeandweb.com/texturepacker) - Sprite sheet packer and editor, supporting hardware compression formats
+
 ### Entity Component System (ECS)
 - [Artemis-odb](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
 - [Ashley](https://github.com/libgdx/ashley) - A Java entity system inspired by Ash & Artemis.
@@ -127,6 +130,7 @@ _Tutorials for newbies and seasoned developers alike._
 ### Getting Started
 
 - [Official libGDX Wiki](https://libgdx.com/wiki/) - Official libGDX wiki that contains a huge amount of information.
+- [LibGDX Beginner Tutorial: Sprite Sheets & Physics with Box2D](https://www.codeandweb.com/physicseditor/tutorials/libgdx-physics) - This tutorial explains how to use sprite sheets and box2d physics with LibGDX
 - [Tann's Hello libGDX](https://colourtann.github.io/HelloLibgdx/) - An excellent guide for beginners on how to create a game from scratch.
 - [Development Tutorial Playlist by Phillip Mod Dev](https://www.youtube.com/playlist?list=PLLwCf-qdpyEnB_FO_1HkUFh7smwGNjAaC) - A series of videos going over the basics of libGDX.
 - [Brandon Grasley's Space Shooter Game](https://www.youtube.com/playlist?list=PLfd-5Q3Fwq0WKrkEKw12nqpfER3MG5_Wi) - Video tutorial series on making a complete Android game from scratch.
@@ -136,6 +140,7 @@ _Tutorials for newbies and seasoned developers alike._
 - [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - Discusses the pros and cons of different progress bar design techniques with examples.
 - [libGDX External Tutorials](https://libgdx.com/wiki/articles/external-tutorials) - Big list of official unofficial tutorials.
 - [Scene2D.UI From the Ground Up](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
+- [How to pack sprite sheets](https://www.codeandweb.com/texturepacker/tutorials/libgdx-sprite-sheet-tutorial) - Short tutorial explaing how to create sprite sheets
 
 ### Advanced
 
