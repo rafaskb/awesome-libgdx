@@ -116,6 +116,7 @@ _Resources that can be used in libGDX code to boost the framework's capabilities
 - [gdx-jnigen](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 - [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
 - [KTX](https://github.com/libktx/ktx) - Kotlin extensions and utilities for libGDX.
+- [LeTrain](https://github.com/antoniovazquezaraujo/LeTrain) - Open-source procedural train simulator using Java 17, LibGDX and Lanterna.
 - [noise4j](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 - [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
 - [libGDX Plugin](https://github.com/BlueBoxWare/LibGDXPlugin) - A plugin for IntelliJ IDEA and Android Studio that adds a number of libGDX features and tools, such as color previews and additional inspections for common mistakes.
